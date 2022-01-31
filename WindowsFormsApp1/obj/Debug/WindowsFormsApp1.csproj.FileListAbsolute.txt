@@ -1,0 +1,246 @@
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GanttTest.mdf
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\GanttTest_log.ldf
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.SpellChecker.v20.1.Core.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Extensions.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraSpellChecker.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.SpellChecker.v20.1.Core.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Extensions.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraSpellChecker.v20.1.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Extensions.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Extensions.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Extensions.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Extensions.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraSpellChecker.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraSpellChecker.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraSpellChecker.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraSpellChecker.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\emre_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\GanttTest.mdf
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\GanttTest_log.ldf
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Data.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.SpellChecker.v20.1.Core.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Extensions.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraSpellChecker.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Images.v20.1.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Office.v20.1.Core.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Data.v20.1.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.SpellChecker.v20.1.Core.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Extensions.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraSpellChecker.v20.1.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Extensions.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Extensions.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Extensions.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Extensions.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraSpellChecker.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraSpellChecker.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraSpellChecker.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraSpellChecker.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Maykan Yazılım\Gantt Chart\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
